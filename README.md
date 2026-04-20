@@ -23,18 +23,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFuYzUzMHVleWE4a2NranZqOHgxeG5tcGUzeHJncW5iaGd2NzBncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="280" alt="anime coder" />
 
-</td>
-<td align="left" width="45%">
-
-
-</td>
-</tr></table>
-
-<br/>
-
----
-
-<br/>
 
 ## &nbsp;`⚡ Tech Stack`
 

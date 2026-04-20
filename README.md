@@ -13,7 +13,7 @@
 ## &nbsp;`👤 About me`
 
 <br/>
-
+## &nbsp;`⚡ Tech Stack`
 </div>
 
 <p align="center">

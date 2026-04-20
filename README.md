@@ -26,25 +26,6 @@
 </td>
 <td align="left" width="45%">
 
-```python
-class HapistelloGnosko:
-
-  stack = [
-    "Python",
-    "HTML", "CSS",
-    "Bash", "Linux"
-  ]
-
-  building = "Mythralis CLI"
-  # RPG universe in code
-
-  mindset = (
-    "Clean logic."
-    "No noise."
-  )
-
-  goal = "R$10k/month. 30 days."
-```
 
 </td>
 </tr></table>

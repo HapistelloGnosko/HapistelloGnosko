@@ -4,15 +4,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=520&lines=building+systems+that+think.;clean+logic.+purposeful+code.;from+fantasy+worlds+to+real+software.;Mythralis+is+loading..." alt="typing svg" />
-
-</div>
-
-<br/>
 
 ---
 

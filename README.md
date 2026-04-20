@@ -132,7 +132,7 @@ Always learning. Always refining.
 
 <div align="center">
 
-<sub>⚔️ &nbsp; building Mythralis &nbsp;·&nbsp; Anápolis, Brasil &nbsp;·&nbsp; Hapistello Gnosko</sub>
+<sub>Hapistello Gnosko</sub>
 
 <br/><br/>
 

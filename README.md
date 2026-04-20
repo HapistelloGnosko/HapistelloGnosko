@@ -12,7 +12,7 @@
 
 <br/>
 
-## &nbsp;`⚡ About me`
+## &nbsp;`👤 About me`
 
 <br/>
 

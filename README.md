@@ -129,13 +129,3 @@ Always learning. Always refining.
 <br/>
 
 ---
-
-<div align="center">
-
-<sub>Hapistello Gnosko</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:1a0030,100:0d0d0d&height=100&section=footer&animation=fadeIn" />
-
-</div>

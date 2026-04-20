@@ -7,11 +7,10 @@
 ---
 
 <br/>
-## &nbsp;`👤 About me`
 <div align="center">
 
 <br/>
-
+## &nbsp;`👤 About me`
 
 <br/>
 

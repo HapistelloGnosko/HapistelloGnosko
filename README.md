@@ -1,10 +1,4 @@
 <div align="center">
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0030,100:6A0DAD&height=200&section=header&text=Hapistello%20Gnosko&fontSize=42&fontColor=f0e6ff&animation=fadeIn&fontAlignY=" />
-
-</div>
-<br/>
 
 <img src="https://images.steamusercontent.com/ugc/2485505196359429007/0524C7EF8EC8BEAE9D685B4E99C1E509881C1E05/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="80%" style="border-radius: 12px;" />
 

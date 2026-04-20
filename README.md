@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-<img src="https://i.pinimg.com/originals/d6/4a/00/d64a008d0d0881d07ef6812dde37aae0.gif" width="80%" style="border-radius: 12px;" />
+<img src="https://images.steamusercontent.com/ugc/2485505196359429007/0524C7EF8EC8BEAE9D685B4E99C1E509881C1E05/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="80%" style="border-radius: 12px;" />
 
 </div>
 

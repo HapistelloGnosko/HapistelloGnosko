@@ -10,7 +10,11 @@
 
 <div align="center">
 
-### 🜂 About Me
+<br/>
+
+## &nbsp;`⚡ About me`
+
+<br/>
 
 </div>
 

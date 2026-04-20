@@ -10,10 +10,10 @@
 <div align="center">
 
 <br/>
-## &nbsp;`👤 About me`
+
+## &nbsp;`⚡ Tech Stack`
 
 <br/>
-## &nbsp;`⚡ Tech Stack`
 </div>
 
 <p align="center">

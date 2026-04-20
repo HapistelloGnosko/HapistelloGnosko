@@ -1,18 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0030,100:6A0DAD&height=200&section=header&text=Hapistello%20Gnosko&fontSize=42&fontColor=f0e6ff&animation=fadeIn&fontAlignY=42&desc=logic%20%C2%B7%20systems%20%C2%B7%20automation%20%C2%B7%20fantasy&descAlignY=62&descSize=15&descColor=b388ff" />
+<br/>
+
+<img src="https://i.pinimg.com/originals/d6/4a/00/d64a008d0d0881d07ef6812dde37aae0.gif" width="80%" style="border-radius: 12px;" />
 
 </div>
-
 
 ---
 
 <br/>
 
-<table align="center"><tr>
-<td align="center" width="55%">
+<div align="center">
 
+### 🜂 About Me
 
+</div>
+
+<p align="center">
+
+I am a student of logic, systems, and strategy.  
+I enjoy understanding how things work beneath the surface and turning ideas into structured solutions.
+
+Focused on **programming, automation, and problem-solving**,  
+I aim to build projects that are simple, efficient, and meaningful.
+
+Always learning. Always refining.
+
+</p>
+
+<br/>
 
 ## &nbsp;`⚡ Tech Stack`
 

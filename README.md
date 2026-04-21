@@ -10,8 +10,10 @@
 <br />
 
 <p align="center">
-  I am a student of logic, systems, and strategy.<br />
-  I enjoy understanding how things work beneath the surface and turning ideas into structured solutions.<br /><br />
+  Hello, my name is Benjamim, but I prefer to be called Hapistello.<br />
+  I'm 17 years old, and I am a student of logic, systems, and strategy.<br /><br />
+  I enjoy understanding how things work beneath the surface<br />
+  and turning ideas into structured solutions.<br /><br />
   Focused on <strong>programming</strong>, <strong>automation</strong>, and <strong>problem-solving</strong>,<br />
   I aim to build projects that are simple, efficient, and meaningful.<br /><br />
   Always learning. Always refining.

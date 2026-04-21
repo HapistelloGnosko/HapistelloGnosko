@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-  I am a student of logic, systems, and strategy...<br />
+  I am a student of logic, systems, and strategy.<br />
   I enjoy understanding how things work beneath the surface and turning ideas into structured solutions.<br /><br />
   Focused on <strong>programming</strong>, <strong>automation</strong>, and <strong>problem-solving</strong>,<br />
   I aim to build projects that are simple, efficient, and meaningful.<br /><br />

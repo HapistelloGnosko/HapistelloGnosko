@@ -1,12 +1,3 @@
-<div align="center">
-  <img
-    src="https://images.steamusercontent.com/ugc/2485505196359429007/0524C7EF8EC8BEAE9D685B4E99C1E509881C1E05/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
-    alt="Dark anime wallpaper"
-    width="80%"
-    style="display:block; margin:0 auto; border-radius:12px;"
-  />
-</div>
-
 <br />
 
 <p align="center">
